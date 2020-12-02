@@ -1,16 +1,14 @@
-### Hi there 👋
+Hey there! I'm Victor Munhoz👋
 
-<!--
-**victorbmunhoz/victorbmunhoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I´m a Javascript lover, focused in mobile and web development!
+👨🏻‍💻 About Me:
+🤔   Exploring new technologies and developing software solutions and quick hacks.
+🎓   Studying analysis and systems development.
+🌱   Learning more about Frontend, mobile and software architecture.
+✍️   Pursuing Competitive Programming and Gaming as hobbies/side hustles.
+💻 Languages and Tools: HTML, CSS, Javascript, React, React Native and Node.js.
+  
 
-Here are some ideas to get you started:
+[![Victor's github stats](https://github-readme-stats.vercel.app/api?username=victorbmunhoz&show_icons=true&theme=radical)](https://github.com/victorbmunhoz/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️ Victor B. Munhoz 
