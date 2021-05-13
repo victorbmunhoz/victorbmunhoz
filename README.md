@@ -8,7 +8,6 @@ Hey there! I'm Victor Munhoz👋
 ✍️   Music and Gaming as hobbies.<br>
 💻 Languages and Tools: HTML, CSS, Javascript, React and React Native<br>
   <br>
-
-[![Victor's github stats](https://github-readme-stats.vercel.app/api?username=victorbmunhoz&show_icons=true&theme=radical)](https://github.com/victorbmunhoz/github-readme-stats)<br>
+  <br>
 <br>
 ⭐️ Victor B. Munhoz 
