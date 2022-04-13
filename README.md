@@ -4,10 +4,9 @@ Hey there! I'm Victor Munhoz👋
 <br>
   About Me:<br>
 🤔   Exploring new technologies and developing software solutions.<br>
-🎓   Studying analysis and systems development.<br>
 🌱   Learning more about Full-stack development, mobile and software architecture.<br>
 ✍️   Music and Gaming as hobbies.<br>
-💻 Languages and Tools: HTML, CSS, Javascript, React, React Native, Node.js and MySQL<br>
+💻 Languages and Tools: HTML, CSS, Javascript, React, React Native, Vue.js, Node.js and MySQL<br>
   <br>
   <br>
 <br>
