@@ -1,32 +1,13 @@
 Hey there! I'm Victor Munhoz👋
 
-🚀 JavaScript-focused software developer specializing in React, Angular, and Vue.js for web development and React Native for mobile development. Proficient in HTML, CSS, Git, and Node.js. Strong understanding of core computer science concepts and object-oriented programming in JavaScript, enabling the ability to build and maintain large-scale distributed systems capable of handling high loads. Demonstrates the ability to integrate APIs, collaborate on projects, and analyze production features using analytics and metrics. <br>
-<br>
-  About Me:<br>
-Hardskills:
-✰ Javascript
-✰ Typescript
-✰ React
-✰ Angular
-✰ React Native
-✰ Vue.js
-✰ HTML
-✰ CSS
-✰ Git
-✰ English C2
-✰ Agile methodologies
+Software developer with over 3 years of experience creating and optimizing front-end solutions for web and mobile using React, Angular, and React Native. Delivered impactful results in projects by improving performance (+17% to +38%) and accessibility (+23% to +46%) through code refactoring and efficient integrations. Currently pursuing a postgraduate degree in Full Stack Development at FIAP, with a focus on scalable systems and agile methodologies. Dedicated to delivering high-quality code and crafting exceptional digital experiences.
 
-Softskills:
-✰ Teamwork
-✰ Proactivity
-✰ Customer focus
-✰ Communication
-✰ Empathy / Emotional Intelligence
-✰ Self-Awareness
-✰ Open-Mindedness
-✰ Problem-Solving / Critical Thinking
-✰ Adaptability
-✰ Time Management
+Technical Skills:
+- Languages: JavaScript, TypeScript, HTML, CSS;
+- Frameworks & Libraries: React, Angular, React Native, Node.js, MaterialUI, TailwindCSS, Bootstrap;
+- Tools: Git, VSCode, npm, Postman, JIRA, Trello, Webpack, Agile methodologies,
+Azure, AWS;
+- Databases: SQL, NoSQL, MySQL, MongoDB.
   <br>
   <br>
 <br>
